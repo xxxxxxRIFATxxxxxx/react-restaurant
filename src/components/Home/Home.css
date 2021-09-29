@@ -1,10 +1,15 @@
 .home-container {
-    /* background-image: linear-gradient(to right, #f752a4,#FF0080); */
-    background-color: #282C34;
+    text-align: center;
+    height: 100vh;
 }
 
 .donuts {
     pointer-events: none;
+    height: 80vmin;
+}
+
+.btn-animation {
+    height: 8vmin;
 }
 
 @media (prefers-reduced-motion: no-preference) {
